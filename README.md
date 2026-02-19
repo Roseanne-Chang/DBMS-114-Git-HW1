@@ -10,7 +10,7 @@ Complete the following 6 tasks:
 
 Fork this repository:
 ```
-https://github.com/113356041-bot/DBMS-114-Git-HW-Repo
+https://github.com/titibeear611513/DBMS-114-Git-HW1
 ```
 
 ### Task 2: Clone Repository
